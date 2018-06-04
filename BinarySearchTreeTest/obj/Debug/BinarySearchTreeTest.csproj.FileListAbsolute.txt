@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\BinarySearchTreeTest\BinarySearchTreeTest\bin\Debug\BinarySearchTreeTest.exe.config
+C:\Users\User\source\repos\BinarySearchTreeTest\BinarySearchTreeTest\bin\Debug\BinarySearchTreeTest.exe
+C:\Users\User\source\repos\BinarySearchTreeTest\BinarySearchTreeTest\bin\Debug\BinarySearchTreeTest.pdb
+C:\Users\User\source\repos\BinarySearchTreeTest\BinarySearchTreeTest\obj\Debug\BinarySearchTreeTest.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\BinarySearchTreeTest\BinarySearchTreeTest\obj\Debug\BinarySearchTreeTest.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BinarySearchTreeTest\BinarySearchTreeTest\obj\Debug\BinarySearchTreeTest.exe
+C:\Users\User\source\repos\BinarySearchTreeTest\BinarySearchTreeTest\obj\Debug\BinarySearchTreeTest.pdb
